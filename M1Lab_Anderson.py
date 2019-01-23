@@ -14,7 +14,7 @@ def main():
      print("take on down pass it around")
      
      if beer == 1:
-         print("no more beers left")
+         print("no more beers left now")
     
     
  
